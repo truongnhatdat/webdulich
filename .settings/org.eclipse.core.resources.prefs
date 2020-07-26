@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/dulichbien/gioithieu.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/dulichbien/lienhe.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/dulichbien/quantri.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/dulichbien/thongtin.jsp=UTF-8
+encoding//src/bean/controller/CTDV.java=UTF-8
+encoding//src/bean/controller/CTHoaDonTour.java=UTF-8
+encoding//src/poly/controller/Home.java=UTF-8
+encoding//src/poly/controller/Quantri.java=UTF-8
+encoding//src/poly/entity/CTDichVu.java=UTF-8
+encoding//src/poly/entity/CTTour.java=UTF-8
+encoding//src/poly/entity/DichVuDuLich.java=UTF-8
+encoding//src/poly/entity/KhachHang.java=UTF-8
+encoding//src/poly/entity/ThongTinDuLich.java=UTF-8
+encoding//src/poly/entity/TinDuLich.java=UTF-8
+encoding//src/poly/entity/TourDuLich.java=UTF-8
